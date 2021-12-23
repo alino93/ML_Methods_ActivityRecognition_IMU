@@ -1,5 +1,5 @@
 # ML_Methods_ActivityRecognition_IMU
-ML methods for activity recognition after LDA, PCA using simple NN
+ML methods for activity recognition after LDA, PCA using SVM and CNN for comparison
 
 Classify human activities using IMU acceleration and gyro signals using NN
 - Matlab files are extract transfer function features for ML
