@@ -2,7 +2,7 @@
 ML methods for activity recognition after LDA, PCA using simple NN
 
 Classify human activities using IMU acceleration and gyro signals using NN
-- Matlab files extract transfer function features for ML
+- Matlab files are extract transfer function features for ML
 - Classify brute uses raw data
 - Classify DT_TF uses a Decision Tree on the transfer funciton extracted data
 - Classify mode uses mathematical mode between different features
